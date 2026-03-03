@@ -41,6 +41,7 @@ let resultado = dados.choices[0].message.content;
 blocoCodigo.textContent = resultado; // Exibe para cópia
 resultadoCodigo.srcdoc = resultado;  // Renderiza visualmente
 ```
+---
 ### 🚀 Como Executar
 
 ## 1. Clone o repositório:
@@ -50,4 +51,7 @@ resultadoCodigo.srcdoc = resultado;  // Renderiza visualmente
 Basta abrir o arquivo index.html no seu navegador favorito. Não é necessário servidor local!
 
 ## 3. Configuração de Chave:
-No arquivo src/js/scripts.js, a chave de API está configurada. Para uso persistente ou escalável, recomenda-se criar sua própria chave gratuita no Groq Cloud.
+No arquivo ```src/js/scripts.js```, a chave de API está configurada. Para uso persistente ou escalável, recomenda-se criar sua própria chave gratuita no Groq Cloud.
+---
+### 📝 O que este projeto exercita?
+
