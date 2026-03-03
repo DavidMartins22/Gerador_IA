@@ -92,8 +92,4 @@ Sinta-se à vontade para enviar um Pull Request!
 
 > “O melhor código é aquele que ajuda você a criar mais rápido.” ⚡🔥  
 
----
 
-## 👨‍💻 Desenvolvido por David Martins 🚀
-
-Se esse projeto te ajudou, deixa uma ⭐ no repositório!
