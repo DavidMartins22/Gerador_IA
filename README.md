@@ -44,4 +44,4 @@ resultadoCodigo.srcdoc = resultado;  // Renderiza visualmente
 ### 🚀 Como Executar
 
 ## 1. Clone o repositório:
-git clone [https://github.com/seu-usuario/css-gerador-ia.git](https://github.com/seu-usuario/css-gerador-ia.git)
+```git clone [https://github.com/seu-usuario/css-gerador-ia.git](https://github.com/seu-usuario/css-gerador-ia.git)```
