@@ -45,3 +45,9 @@ resultadoCodigo.srcdoc = resultado;  // Renderiza visualmente
 
 ## 1. Clone o repositório:
 ```git clone [https://github.com/seu-usuario/css-gerador-ia.git](https://github.com/seu-usuario/css-gerador-ia.git)```
+
+## 2. Abra o projeto:
+Basta abrir o arquivo index.html no seu navegador favorito. Não é necessário servidor local!
+
+## 3. Configuração de Chave:
+No arquivo src/js/scripts.js, a chave de API está configurada. Para uso persistente ou escalável, recomenda-se criar sua própria chave gratuita no Groq Cloud.
