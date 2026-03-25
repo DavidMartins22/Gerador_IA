@@ -25,7 +25,7 @@
 */
 
 let botao = document.querySelector(".botao-gerar");
-let chave = "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";
+let chave = "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";
 let endereco = "https://api.groq.com/openai/v1/chat/completions";
 
 // Criei a função que será chamada quando clicar no botão
@@ -38,7 +38,7 @@ let endereco = "https://api.groq.com/openai/v1/chat/completions";
     method: "POST",
     headers: {
       "Content-Type": "application/json",
-      "Authorization": "Bearer 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",
+      "Authorization": "Bearer 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",
     },
 
     body: JSON.stringify({
